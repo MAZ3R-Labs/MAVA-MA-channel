@@ -14,5 +14,5 @@
 
 ## Ver 0.1 beta  release date: 2021/01/21
 #### Features
-- Daily Push notifications of Bitcoin, Ethereum, Litecoin.;
-- Includes current price, Moving Average Value at 5, 10, 15, 20.;
+- Daily Push notifications of Bitcoin, Ethereum, Litecoin.
+- Includes current price, Moving Average Value at 5, 10, 15, 20.
