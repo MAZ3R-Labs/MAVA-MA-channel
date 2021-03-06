@@ -1,5 +1,5 @@
 # MAVA-MA-channel Change log
-
+This project is not a open source project, only change will be provided.
 
 ## Ver 1.0 release date: 2021/02/20
 #### Changes
