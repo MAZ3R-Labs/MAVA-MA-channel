@@ -1,6 +1,10 @@
 # MAVA-MA-channel Change log
 This project is not a open source project, only change log will be provided.
 
+## Ver 1.2 release date: 2021/03/10
+#### Changes
+- Add Moving Average Value for FTX token(FTT) at 20
+
 ## Ver 1.1 release date: 2021/03/06
 #### New Features
 - Error logging for system admins.
