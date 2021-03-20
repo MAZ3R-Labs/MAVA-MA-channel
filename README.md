@@ -1,6 +1,12 @@
 # MAVA-MA-channel Change log
 This project is not a open source project, only change log will be provided.
 
+## Ver 1.3 release date: 2021/03/21
+#### Changes
+- Remove LTC 
+- Delete FTT ATH Value
+- Add MA For FTT
+
 ## Ver 1.2 release date: 2021/03/10
 #### Changes
 - Add Moving Average Value for FTX token(FTT) at 20
