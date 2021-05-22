@@ -1,5 +1,12 @@
 # MAVA-MA-channel Change log
 This project is not a open source project, only change log will be provided.
+## Ver 1.5 release date: 2021/05/23
+#### Changes
+- ETH MA Value change
+
+## Ver 1.4 release date: 2021/04/23
+#### Changes
+- MA Value change
 
 ## Ver 1.3 release date: 2021/03/21
 #### Changes
